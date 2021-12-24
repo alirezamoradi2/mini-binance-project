@@ -1,0 +1,27 @@
+:root {
+    --white: #E0FBFC;
+    --blue: #22577A;
+    --dark-blue: #050f52;
+    --dark-blue: #000941;
+    --red: #FF5151;
+    --gray: #929292;
+}
+
+.Spot {
+    width: 49.9999999%;
+    display: inline-block;
+}
+
+.Spot-spot {
+    height: 393px;
+    text-align: center;
+    background-color: var(--dark-blue);
+    color: #E0FBFC;
+
+    border-right: 1px solid var(--gray);
+    border-bottom: 1px solid var(--gray);
+
+    position: relative;
+    bottom: 778.6px;
+    left: 338px;
+}

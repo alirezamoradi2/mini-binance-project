@@ -1,0 +1,22 @@
+:root {
+    --white: #E0FBFC;
+    --blue: #22577A;
+    --dark-blue: #1c1d1c;
+    --red: #FF5151;
+    --gray: #929292;
+}
+
+.Footer {
+    width: 100%;
+    display: block;
+}
+
+.Footer-footer {
+    height: 200px;
+    background-color: var(--dark-blue);
+    text-align: center;
+    color: var(--white);
+    position: relative;
+    bottom: 778.6px;
+    border-bottom: 1px solid var(--gray);
+}
